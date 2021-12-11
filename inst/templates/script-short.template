@@ -1,0 +1,5 @@
+#!/usr/bin/env Rscript
+
+{{#script_name}}
+## {{{.}}}{{#description}} - {{{.}}}{{/description}}
+{{/script_name}}
